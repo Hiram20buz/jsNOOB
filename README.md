@@ -1,0 +1,2 @@
+# jsNOOB
+JavaScript for noobs
